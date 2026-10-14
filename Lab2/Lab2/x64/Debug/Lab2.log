@@ -1,0 +1,4 @@
+﻿  InLab02.c
+C:\Users\nolan\Documents\Lab2\Lab2\InLab02.c(19,51): warning C4101: 'speed': unreferenced local variable
+C:\Users\nolan\Documents\Lab2\Lab2\InLab02.c(19,29): warning C4101: 'area': unreferenced local variable
+  Lab2.vcxproj -> C:\Users\nolan\Documents\Lab2\x64\Debug\Lab2.exe

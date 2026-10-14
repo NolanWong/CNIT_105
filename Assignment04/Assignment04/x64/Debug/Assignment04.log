@@ -1,0 +1,7 @@
+﻿  Assignment04.c
+C:\Users\nolan\Documents\Assignment04\Assignment04\Assignment04.c(28,13): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\nolan\Documents\Assignment04\Assignment04\Assignment04.c(32,13): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\nolan\Documents\Assignment04\Assignment04\Assignment04.c(36,13): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\nolan\Documents\Assignment04\Assignment04\Assignment04.c(40,13): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\nolan\Documents\Assignment04\Assignment04\Assignment04.c(48,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Assignment04.vcxproj -> C:\Users\nolan\Documents\Assignment04\x64\Debug\Assignment04.exe

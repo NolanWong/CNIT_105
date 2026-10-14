@@ -1,0 +1,5 @@
+﻿  InLab03.c
+C:\Users\nolan\Documents\InLab03\InLab03\InLab03.c(35,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\nolan\Documents\InLab03\InLab03\InLab03.c(37,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\nolan\Documents\InLab03\InLab03\InLab03.c(20,40): warning C4305: 'initializing': truncation from 'double' to 'float'
+  InLab03.vcxproj -> C:\Users\nolan\Documents\InLab03\x64\Debug\InLab03.exe

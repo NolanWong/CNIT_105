@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="InLab03/InLab03.vcxproj" Id="5a14c756-67b2-4173-8efb-f2ae3d4bff22" />
+</Solution>

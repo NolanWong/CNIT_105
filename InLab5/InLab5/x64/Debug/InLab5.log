@@ -1,0 +1,3 @@
+﻿  InLab05.c
+C:\Users\nolan\Documents\InLab5\InLab5\InLab05.c(65,2): warning C4013: '_getch' undefined; assuming extern returning int
+  InLab5.vcxproj -> C:\Users\nolan\Documents\InLab5\x64\Debug\InLab5.exe

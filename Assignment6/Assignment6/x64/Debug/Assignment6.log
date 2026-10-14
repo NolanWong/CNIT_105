@@ -1,0 +1,4 @@
+﻿  Assignment06.c
+C:\Users\nolan\Documents\Assignment6\Assignment6\Assignment06.c(90,2): warning C4013: '_getch' undefined; assuming extern returning int
+C:\Users\nolan\Documents\Assignment6\Assignment6\Assignment06.c(18,24): warning C4101: 'totalEven': unreferenced local variable
+  Assignment6.vcxproj -> C:\Users\nolan\Documents\Assignment6\x64\Debug\Assignment6.exe
