@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nolan\\Documents\\CNIT_105\\InLab08\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A210C399-501D-46E2-8706-7E946B85AD2B}|InLab08\\InLab08.vcxproj|C:\\Users\\nolan\\Documents\\CNIT_105\\InLab08\\InLab08\\InLab08.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A210C399-501D-46E2-8706-7E946B85AD2B}|InLab08\\InLab08.vcxproj|solutionrelative:InLab08\\InLab08.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InLab08.c",
+              "DocumentMoniker": "C:\\Users\\nolan\\Documents\\CNIT_105\\InLab08\\InLab08\\InLab08.c",
+              "RelativeDocumentMoniker": "InLab08\\InLab08.c",
+              "ToolTip": "C:\\Users\\nolan\\Documents\\CNIT_105\\InLab08\\InLab08\\InLab08.c*",
+              "RelativeToolTip": "InLab08\\InLab08.c*",
+              "ViewState": "AgIAABMAAAAAAAAAAAAswB4AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-10-30T13:37:39.755Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
